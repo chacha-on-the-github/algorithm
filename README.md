@@ -1,2 +1,2 @@
 # algorithm
-# studying for coding test
+Studying for coding test
