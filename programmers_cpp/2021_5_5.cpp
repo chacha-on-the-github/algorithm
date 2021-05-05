@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Lv1. 
+// Lv1.내적
 
 int solution(vector<int> a, vector<int> b) {
     int answer = 0;
